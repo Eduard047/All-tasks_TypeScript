@@ -1,0 +1,15 @@
+{
+  "name": "interactive-website-ts",
+  "version": "1.0.0",
+  "description": "This repository contains an interactive website built with HTML, CSS, and TypeScript. It features various animations, modal windows, and dynamically loaded data from a REST API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  }
+}
